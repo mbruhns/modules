@@ -2282,6 +2282,10 @@ macs2/callpeak:
   - modules/nf-core/macs2/callpeak/**
   - tests/modules/nf-core/macs2/callpeak/**
 
+macsima2mc:
+  - modules/nf-core/macsima2mc/**
+  - tests/modules/nf-core/macsima2mc/**
+
 mafft:
   - modules/nf-core/mafft/**
   - tests/modules/nf-core/mafft/**
